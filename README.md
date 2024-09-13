@@ -1,2 +1,2 @@
-# ola mundo
- primeiro reposotorio versionado git desktop
+# Olá, Mundo!
+ Primeiro reposotorio versionado git desktop
